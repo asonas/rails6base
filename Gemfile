@@ -7,9 +7,10 @@ gem 'bootsnap', require: false
 gem 'jbuilder'
 gem 'pg'
 gem 'puma'
+gem 'ridgepole'
 gem 'sass-rails'
-gem 'slim-rails'
 gem 'simpacker'
+gem 'slim-rails'
 
 group :development do
   gem 'awesome_print'
